@@ -50,3 +50,4 @@ set guifont=Lucida_Console:h14:cANSI:qDRAFT
 syntax on
 ":redir @* | set guifont | redir END
 colo darkblue
+set tabstop=4
